@@ -2,6 +2,6 @@ div {
   margin: 16px;
 }
 
-label {
+label.gender-secret {
   margin-left: 5px;
 }
